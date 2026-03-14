@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+
+# TensorBoard Logs
+*tensorboard/
+*/tensorboard/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code directory (optional)
+.vscode/
+
+# If you want to ignore all model checkpoints or images, you can uncomment these:
+# *.zip
+# *.png
