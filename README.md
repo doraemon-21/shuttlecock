@@ -43,8 +43,6 @@ python learn/shuttle_sim.py
 
 The agent converges to high numerical accuracy after ~250k timesteps, successfully learning to account for the shuttlecock's high drag coefficient and predicting complex trajectories with minimal error. Detailed algorithm benchmarking metrics and Tensorboard plots can be generated via the `learn/performance.py` file.
 
-### Actual vs Predicted
-![Actual vs Predicted Fall Point](actual_vs_pred.png)
 
 ### Prediction Accuracy
 ![Prediction Accuracy Over Time](learn/prediction_accuracy.png)
